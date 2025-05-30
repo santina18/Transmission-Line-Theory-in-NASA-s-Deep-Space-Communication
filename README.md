@@ -1,10 +1,7 @@
 # Transmission-Line-Theory-in-NASA-s-Deep-Space-Communication
 # TM AND TE WAVES IN CIRCULAR WAVEGUIDE
 # Transmission Lines and NASA Communications: How Transmission Line Theory Powers Space Exploration
-
 ![NASA Deep Space Network antenna](https://upload.wikimedia.org/wikipedia/commons/3/3d/Goldstone-Deep-Space-Communications-Complex_antenna.jpg)
-
-
 ## 1. Introduction
 Waveguides are used in NASA systems for high-frequency signals where traditional transmission lines become lossy. Unlike coaxial lines (TEM mode), waveguides support TE/TM modes and offer low-loss transmission, making them ideal for deep-space communications like the DSN.
 In space exploration, reliable communication between spacecraft and Earth is critical. Transmission lines are the backbone of these high-frequency signal paths that connect antennas, transmitters, and receivers. NASA uses transmission line theory extensively in its Deep Space Network (DSN), satellite communication systems, and launch vehicle telemetry. This report explores how transmission line principles and equations ensure efficient, low-loss signal transmission vital for mission success.
@@ -151,6 +148,10 @@ NASA uses this for precise timing synchronization in telemetry data and command 
 * Uses large parabolic antennas connected via high-quality coaxial cables and waveguides.
 * Engineers apply transmission line theory to match impedances, minimize reflections, and reduce insertion loss.
 * DSN supports communication with missions like Mars Perseverance, James Webb Space Telescope, and interplanetary probes.
+
+
+
+
 
 
 # 10. Conclusion
